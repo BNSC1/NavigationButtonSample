@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">NavigationButtonSample</string>
+    <string name="hello_blank_fragment">Hello blank fragment 1</string>
+    <string name="hello_blank_fragment2">Hello blank fragment 2</string>
+    <string name="action_open">Open</string>
+    <string name="action_close">Close</string>
+</resources>
